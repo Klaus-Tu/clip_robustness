@@ -12,8 +12,6 @@ This repository contains:
 
 - the Python implementation of evluation codes.
 
-Please follow the instruction below to install it and run the experiment demo.
-
 ## Citation
  ```bibtex
 @inproceedings{tu2023closer,
