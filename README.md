@@ -1,4 +1,5 @@
-# Bag-of-Prototypes
+# A Closer Look at the Robustness of Contrastive
+Language-Image Pre-Training (CLIP)
 
 This codebase provides an official implementation for the paper: [A Closer Look at the Robustness of Contrastive
 Language-Image Pre-Training (CLIP)](https://openreview.net/forum?id=wMNpMe0vp3) at NeurIPS 2023.
